@@ -1,0 +1,237 @@
+[33m59fd9b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/pdf[m[33m)[m HEAD@{0}: merge feat/pdf: Fast-forward
+[33mfc110bd[m HEAD@{1}: checkout: moving from feat/pdf to main
+[33m59fd9b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/pdf[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/feat/pdf
+[33m59fd9b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/pdf[m[33m)[m HEAD@{3}: rebase (pick): PDF feature
+[33mfc110bd[m HEAD@{4}: rebase (start): checkout main
+[33m5b19821[m[33m ([m[1;31morigin/feat/pdf[m[33m)[m HEAD@{5}: checkout: moving from main to feat/pdf
+[33mfc110bd[m HEAD@{6}: commit: Rmove build for merge
+[33m024bd11[m HEAD@{7}: commit (merge): New Pull
+[33m78913ff[m HEAD@{8}: commit: Campaing page fixes, Instanse Comp fixes. New Assessement page initiated!
+[33mbebc730[m HEAD@{9}: commit (merge): Merge
+[33md411121[m HEAD@{10}: commit (amend): Ziggy Remove, My List to compaign added, FullScreen and map view added to instant view
+[33m19cce06[m HEAD@{11}: reset: moving to HEAD
+[33m19cce06[m HEAD@{12}: commit: Remove ziggy.js from tracking and add to .gitignore
+[33mc05ba0f[m HEAD@{13}: commit (merge): Merging
+[33m44c9b44[m HEAD@{14}: commit: My property: changes, comps ai features and ai stream fixes
+[33mee87c6a[m HEAD@{15}: commit: Update composer
+[33mab1c5a3[m HEAD@{16}: commit: BYUKD
+[33ma9da08c[m HEAD@{17}: commit: Ignored BUILD
+[33m82a3e10[m HEAD@{18}: commit (merge): Merge
+[33m3c1e3af[m HEAD@{19}: commit: lint fix
+[33m377e8cb[m HEAD@{20}: commit: Comps: Location map added. Ai chatAdded, Download as PDF added
+[33md6ad0d8[m HEAD@{21}: commit (merge): D
+[33m350100c[m HEAD@{22}: commit: My Changes
+[33ma1bdfa4[m HEAD@{23}: commit: Build for serve
+[33m633da35[m HEAD@{24}: commit: Guest page: Coverage page updates, Sell a property option. other bug fixes
+[33m1c069a8[m HEAD@{25}: commit: Update
+[33m5a52205[m HEAD@{26}: commit: Lint issue fixed
+[33m1b5ff97[m HEAD@{27}: commit (merge): Merge
+[33m1dbb9c5[m HEAD@{28}: commit: Sign-Up Tracking and view on admin added, Login as user and get back admin added, Upgrade dialog county count issue fixed,
+[33mf7d2833[m HEAD@{29}: commit: Build for server
+[33me0494e6[m HEAD@{30}: commit: Fixes
+[33m2e27f25[m HEAD@{31}: commit: Guest pages and ownership information change dateTree
+[33m1e0ed99[m HEAD@{32}: commit: Build for server
+[33m5f12443[m HEAD@{33}: commit: Market Coverage page added
+[33mbdc3ace[m HEAD@{34}: commit: Build for server
+[33m9bbc858[m HEAD@{35}: commit (merge): Merge
+[33m943bed4[m HEAD@{36}: commit: UnlistPRoperty Fixes
+[33m96768af[m HEAD@{37}: commit: Build for server
+[33mfbe5e46[m HEAD@{38}: commit (merge): My List Unlisted Issues fixed
+[33m295044c[m HEAD@{39}: pull: Merge made by the 'ort' strategy.
+[33m6bc84c5[m HEAD@{40}: commit: Added Two more guest pages
+[33mbf966f6[m HEAD@{41}: commit: Build for server
+[33m1ea951a[m HEAD@{42}: commit: Added Wholesale,Agents,BuyAndHold Guest pages
+[33m67a5b6e[m HEAD@{43}: commit: Build for server
+[33m78fde35[m HEAD@{44}: commit: Static pages
+[33mf5f93b3[m HEAD@{45}: commit: Update BUild for server
+[33m68648c2[m HEAD@{46}: commit: s
+[33m412256b[m HEAD@{47}: commit (merge): Merge
+[33maedc74b[m HEAD@{48}: commit: Build for server
+[33m71bdd0d[m HEAD@{49}: commit: Added testimonials
+[33md70c656[m HEAD@{50}: commit: Build for server
+[33mf13ef30[m HEAD@{51}: commit: Header and footer for guest page. topbar mobile menu added. and Homepage initiated
+[33m4992c80[m HEAD@{52}: commit: Build for server
+[33m07b59f5[m HEAD@{53}: commit: Guest Page initiated
+[33m993af37[m HEAD@{54}: pull: Fast-forward
+[33mc95149b[m HEAD@{55}: commit: Build for server
+[33md24ba58[m HEAD@{56}: commit: Property default search issue fixed
+[33m6c07ec3[m HEAD@{57}: commit: Build for server
+[33m3e4ae83[m HEAD@{58}: commit: Build for server
+[33mc008e40[m HEAD@{59}: commit: TextA
+[33ma0220e2[m HEAD@{60}: commit: Build for server
+[33ma133b74[m HEAD@{61}: commit: Thumbs and property and unlisted dialog re-align and re-aranged
+[33mdc54ec7[m HEAD@{62}: commit: Build for serve
+[33m778959f[m HEAD@{63}: pull: Fast-forward
+[33m23c869c[m HEAD@{64}: commit: Build for serve
+[33m0d9d821[m HEAD@{65}: commit: Contact upload issue, and state after completed added
+[33m1332f19[m HEAD@{66}: commit: db update
+[33m160fed9[m HEAD@{67}: commit: Build for server
+[33mc7c4c1b[m HEAD@{68}: commit: Referral Page - Earning and Admin View(on-Hold) | Contact Import error fixes. and Upload optimized
+[33ma0c1c3d[m HEAD@{69}: commit: Buyer Search updates
+[33mcb2092f[m HEAD@{70}: commit: update-htaccess file upload
+[33m968e912[m HEAD@{71}: commit: Build for server
+[33m7cfbab5[m HEAD@{72}: pull: Merge made by the 'ort' strategy.
+[33mc58e4d2[m HEAD@{73}: commit: Contact import error fixed
+[33md992cac[m HEAD@{74}: commit: SELECTBox issue fixed
+[33m8773880[m HEAD@{75}: commit: BUild for server
+[33mccbbc11[m HEAD@{76}: pull: Fast-forward
+[33mea7aad2[m HEAD@{77}: commit: Build for server
+[33m0284d15[m HEAD@{78}: commit: Email verification issue fixed
+[33ma3c2b07[m HEAD@{79}: commit: Email verification function added
+[33m73b6cb4[m HEAD@{80}: commit: Build for server
+[33m266dd17[m HEAD@{81}: pull: Fast-forward
+[33mab51165[m HEAD@{82}: commit: Update
+[33mf5ba67c[m HEAD@{83}: commit: Build for server
+[33mc79d9c9[m HEAD@{84}: commit (merge): Merging
+[33m371c627[m HEAD@{85}: commit: Email campaign: Sending bulk email and logging, unsubscribe, setup email event view and sync.
+[33mebe3f34[m HEAD@{86}: commit: Build for server
+[33m2ffae74[m HEAD@{87}: commit: Cleared unwanted files
+[33m2715902[m HEAD@{88}: commit: Fixed Lint Errors
+[33m8743121[m HEAD@{89}: commit: Fixed Address search input issue
+[33mf9dfd8c[m HEAD@{90}: commit: Unlisted Suggesting input issue fixed
+[33m9355cb9[m HEAD@{91}: commit: User restriction configure across user dashboard view
+[33m677c0ba[m HEAD@{92}: commit: remove build and fixed migration issue
+[33m93b5212[m HEAD@{93}: commit: Build
+[33maea0c54[m HEAD@{94}: commit (merge): Merge
+[33m2217642[m HEAD@{95}: commit: Sidebar default open close fixes
+[33m0518baf[m HEAD@{96}: commit: Bug fixes
+[33m8aef99d[m HEAD@{97}: commit: Report & Support features added. Notification Tray display, read and delete addded, Sidebar menu Issue fixed and other bug fixes
+[33m2003950[m HEAD@{98}: commit: Email fixes
+[33mae1313c[m HEAD@{99}: commit: Email sent fixed
+[33mf2b707d[m HEAD@{100}: commit: Seeder file fixes
+[33mef96c8a[m HEAD@{101}: commit: BUild
+[33m3dbe333[m HEAD@{102}: commit: route fix
+[33mf41524f[m HEAD@{103}: commit: Build for serve deploy
+[33mc5d2a41[m HEAD@{104}: commit (merge): Merging
+[33m3b5c486[m HEAD@{105}: commit: Admin Showing, AskQuestion, Instant Offer added
+[33ma812b91[m HEAD@{106}: commit: Update
+[33md6f05b4[m HEAD@{107}: commit: Static value Page added in Admin
+[33me8b9a7f[m HEAD@{108}: commit: bild fixs
+[33m2b645f5[m HEAD@{109}: commit: Update
+[33mc95b60e[m HEAD@{110}: commit: Update
+[33m010ba6e[m HEAD@{111}: commit: Admin User popup updates
+[33me52dd34[m HEAD@{112}: commit: User menu issue fixed
+[33m07ac0c1[m HEAD@{113}: commit: Build
+[33m01a88d5[m HEAD@{114}: commit (amend): Admin Dashboard Added, State and User information table added.
+[33mc1d956d[m HEAD@{115}: commit: Lint error fixes and other bug fixes
+[33m76caed3[m HEAD@{116}: commit: Build
+[33m1edbfb8[m HEAD@{117}: commit (amend): Traning Post & Learn page initiated and updated
+[33me6fb3ee[m HEAD@{118}: commit: Update
+[33m58533d2[m HEAD@{119}: commit: Templates issue fixes, new pages added
+[33m8b3d740[m HEAD@{120}: pull: Merge made by the 'ort' strategy.
+[33m67d4223[m HEAD@{121}: commit: Nav and redirection base url issue fixed
+[33mac11208[m HEAD@{122}: commit (merge): 'update'
+[33m3071e09[m HEAD@{123}: checkout: moving from main to main
+[33m3071e09[m HEAD@{124}: checkout: moving from main to main
+[33m3071e09[m HEAD@{125}: reset: moving to HEAD
+[33m3071e09[m HEAD@{126}: commit: update
+[33mf7e361a[m HEAD@{127}: commit: MLS OFFER initiated and DB SEED issue fixed for counties and states
+[33m8612566[m HEAD@{128}: commit: Update build
+[33m69ec26c[m HEAD@{129}: commit: Map and bg fixes
+[33mc84cfc1[m HEAD@{130}: commit: Update BUild
+[33mf378171[m HEAD@{131}: commit: Bug fixes and Layout alignments
+[33m3ffab1b[m HEAD@{132}: commit: Update | Build
+[33m8deb1f3[m HEAD@{133}: commit: My List and watcher bugs fixes
+[33m9ea29ff[m HEAD@{134}: commit: Buid
+[33m51104ad[m HEAD@{135}: commit: List fixes
+[33m77abac5[m HEAD@{136}: commit: build update
+[33me99659f[m HEAD@{137}: commit: update build
+[33m216ba63[m HEAD@{138}: commit: saved search and add to favorties list updated
+[33m0e305c6[m HEAD@{139}: commit: Update
+[33mf3ba8a7[m HEAD@{140}: commit: s
+[33mff562d2[m HEAD@{141}: commit: Build
+[33m202a8cb[m HEAD@{142}: commit: Campaign Update
+[33m590dcfe[m HEAD@{143}: commit: Build
+[33m07a105a[m HEAD@{144}: commit: mobile layout fixes, Property Detault filter added, Contact Page setup, Referral initiated on hold
+[33me0dde1c[m HEAD@{145}: commit: Home page redirection
+[33m50da194[m HEAD@{146}: commit: BUild mobile menu fixes
+[33m87f686d[m HEAD@{147}: commit: Update
+[33m6251d7d[m HEAD@{148}: commit: Update
+[33md161f86[m HEAD@{149}: commit: algnment issue and suppress bug fixes
+[33m83728da[m HEAD@{150}: commit: My List virtual scrolling and empty validation added
+[33mb35f2fb[m HEAD@{151}: commit: intl ex issue fixed
+[33m7774bcf[m HEAD@{152}: commit: Property Search: Suppress Property Features, Full Screen image implemented, MyList: Suppressed, Mobile chrome address bar issue, Property Dialog: Sub Dialog Actions and email added.
+[33mfb80cc8[m HEAD@{153}: commit: GeoIPs fixes
+[33ma3b92fd[m HEAD@{154}: commit: s
+[33m91ebf25[m HEAD@{155}: commit: Build
+[33m620e731[m HEAD@{156}: commit: My List - Properties and My List - Unlisted
+[33m17b53ba[m HEAD@{157}: commit: Build
+[33me8acd18[m HEAD@{158}: commit: image fixes
+[33mab5ae5c[m HEAD@{159}: commit: Build
+[33mf564b2a[m HEAD@{160}: commit: My property: Grid updates, Address Request page, Recentview page, Property image scroll issue, Email unsubscribe through email/link
+[33mc0fd3ee[m HEAD@{161}: commit: Buid
+[33mf63c987[m HEAD@{162}: commit: bug fixes
+[33maa33433[m HEAD@{163}: commit: Build
+[33m2703a99[m HEAD@{164}: commit: Updates - wholesale page, edit image uploader and re-order functions, form validation, my property list grid view with actions
+[33m05d06bc[m HEAD@{165}: commit: Build
+[33m10f9764[m HEAD@{166}: commit: Update| Filter issue fixes, Add wholesale feature implementations, Edit wholesale initiated and backend database
+[33m27da490[m HEAD@{167}: commit: Property View History, Unlisted View History, RecentActivity update each 5min, MyProperties Page init and Agreement, Upload wholesale Property
+[33m2f4f8c1[m HEAD@{168}: commit: Build
+[33md018ced[m HEAD@{169}: commit: Added Unlisted Add to favorites. Property selection issue fixed
+[33m893fa66[m HEAD@{170}: commit: Build
+[33m083b844[m HEAD@{171}: commit: Property Locked: List view, Property popup Upgrade popup issues fixes
+[33mcc72a04[m HEAD@{172}: commit: Build
+[33m8cbbd28[m HEAD@{173}: commit: Update List view selection and layout fixes, other issues and bugs fixes
+[33m5d0d261[m HEAD@{174}: commit: BUILD
+[33m705b352[m HEAD@{175}: commit: Es Lint Fixes
+[33mf5a57e7[m HEAD@{176}: commit: Build
+[33m371e42e[m HEAD@{177}: commit: List View added
+[33m96f9b3b[m HEAD@{178}: commit: Build
+[33m13c52a9[m HEAD@{179}: commit: Map: Unlisted Popup and detail added, Layout bugs fixes, List view initialized
+[33m203ef21[m HEAD@{180}: commit: build
+[33m1872939[m HEAD@{181}: commit: update thumbnail animation
+[33m693c497[m HEAD@{182}: commit: build
+[33m9e4a28f[m HEAD@{183}: commit: update/fixes filter box, radius range on map base on proximity search
+[33mc568fd6[m HEAD@{184}: commit: fixes
+[33m63e279c[m HEAD@{185}: commit: map fixes
+[33mc23b358[m HEAD@{186}: commit: build
+[33m78da9ec[m HEAD@{187}: commit: map added - fixes
+[33m162f57d[m HEAD@{188}: commit: Image slider and full screen image slider updates
+[33m5b396d3[m HEAD@{189}: commit: build
+[33m25af746[m HEAD@{190}: commit: copy issue, validation
+[33mcb83add[m HEAD@{191}: commit: build
+[33m4fb84fa[m HEAD@{192}: commit: empty image issue fixed, address copy feature added
+[33m66424b9[m HEAD@{193}: commit: update - build
+[33mae0badd[m HEAD@{194}: commit: Share property fixes & Ai
+[33m470c77b[m HEAD@{195}: commit: Wholesale address request and bug fixes
+[33m557444e[m HEAD@{196}: commit: update-build
+[33mbe59c1d[m HEAD@{197}: commit: ai ask fixes
+[33m9d22491[m HEAD@{198}: commit: version check issue fixes
+[33mf8cead7[m HEAD@{199}: commit: AI Chat -
+[33m909bf16[m HEAD@{200}: commit: ms
+[33m63a08cf[m HEAD@{201}: commit: bug fixe
+[33m6f21fdf[m HEAD@{202}: commit: Calculaor and icon changes and bug fixes. shareproperty added
+[33mef2ff77[m HEAD@{203}: commit: s
+[33m8f186f3[m HEAD@{204}: commit: Property popup: Calculation Rental/Flip, AskQuestion, Request Showing, instant offer... other bug fixes..
+[33m5e0f77e[m HEAD@{205}: commit: update git
+[33m1e6efc5[m HEAD@{206}: commit: list detail fixes
+[33m3d09c8e[m HEAD@{207}: commit: update version checker feature
+[33m6385d9e[m HEAD@{208}: commit: main list and filter, sorting, filter option, unlisted fixes
+[33mb7ddfb0[m HEAD@{209}: commit: s
+[33m79d50f5[m HEAD@{210}: commit: update
+[33m8c5c447[m HEAD@{211}: commit: update-fixes
+[33m346b5e9[m HEAD@{212}: commit: Update - comparables
+[33m5009e5f[m HEAD@{213}: commit: Update
+[33mddd7f79[m HEAD@{214}: commit: d
+[33m9acb93b[m HEAD@{215}: commit: fixes
+[33m652ddda[m HEAD@{216}: commit: UN - map
+[33mf42e9f3[m HEAD@{217}: commit: popup fixes
+[33m8588478[m HEAD@{218}: commit: unlisted popup update
+[33mfd2a19b[m HEAD@{219}: commit: compser fixes
+[33me44e939[m HEAD@{220}: commit: unlisted property initialed
+[33mc30b8f5[m HEAD@{221}: commit: unliste search initialed
+[33mda22eaa[m HEAD@{222}: commit: update
+[33me150678[m HEAD@{223}: commit: s
+[33mfd17102[m HEAD@{224}: commit: Filter Updates - and fixes
+[33m78a4bce[m HEAD@{225}: commit: Filter Updates - and fixes
+[33m56fb10e[m HEAD@{226}: commit: Filter save/update and retrive functions added.
+[33mb61a7a2[m HEAD@{227}: commit: mobile fixed
+[33mc18b8cb[m HEAD@{228}: commit: mobile test
+[33m8d0534f[m HEAD@{229}: commit: update
+[33m4186bad[m HEAD@{230}: commit: update
+[33m38bf9a1[m HEAD@{231}: commit: update-build
+[33m93d4efc[m HEAD@{232}: commit: Bugs and layout fixes, Initiated search page
+[33md85ff0b[m HEAD@{233}: commit: -
+[33m50e63df[m HEAD@{234}: commit: Lint Issue fixed
+[33m30ae26d[m HEAD@{235}: commit: basic -requried featues profile page, aws s3, userType management, upgrade account(OnGoing)
+[33mb28290f[m HEAD@{236}: commit (initial): Initial Setup

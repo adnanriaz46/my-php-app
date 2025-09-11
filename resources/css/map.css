@@ -1,0 +1,284 @@
+
+:root {
+    --__active: #53BB73;
+    --__active-under-contract: #AA66CC;
+    --__canceled: #FEE600;
+    --__closed: #CD2F20;
+    --__coming-soon: #F59504;
+    --__pending: #AA66CC;
+    --__temp-off-market: #AA66CC;
+    --__widrawn: #CD2F20;
+    --__expired: #CD2F20;
+
+    --__active_br: #46995f;
+    --__active-under-contract_br: #8f56ac;
+    --__canceled_br: #cfbb01;
+    --__closed_br: #a5261a;
+    --__coming-soon_br: #cf7f06;
+    --__pending_br: #8f56ac;
+    --__temp-off-market_br: #8f56ac;
+    --__widrawn_br: #a5261a;
+    --__expired_br: #a5261a;
+
+    --__active_f: #FFFFFF;
+    --__active-under-contract_f: #FFFFFF;
+    --__canceled_f: #6d6d6d;
+    --__closed_f: #FFFFFF;
+    --__coming-soon_f: #6d6d6d;
+    --__pending_f: #FFFFFF;
+    --__temp-off-market_f: #FFFFFF;
+    --__widrawn_f: #FFFFFF;
+    --__expired_f: #FFFFFF;
+}
+
+#_l_map_container {
+    height: 100%;
+    width: 100%
+}
+
+#_map_u {
+    width: 100%;
+    min-height: 100%;
+}
+
+._marker-parent {
+    border: none;
+    font-family: var(--font-sans);
+
+}
+
+._marker-set {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: 500;
+    text-align: center;
+}
+
+.__triangle {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: -1px;
+    width: 0;
+    border-top: 8px solid rgb(0, 0, 0);
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    cursor: pointer;
+    margin-left: 8px;
+    background-color: transparent !important;
+}
+
+.__active {
+    background-color: var(--__active);
+    color: var(--__active_f);
+    border-top-color: var(--__active_br);
+}
+
+.__active._marker-set {
+    border: 1px solid var(--__active_br);
+    border-top: 1px solid var(--__active_br);
+}
+
+.__active-under-contract {
+    background-color: var(--__active-under-contract);
+    color: var(--__active_f);
+    border-top-color: var(--__active-under-contract_br);
+}
+
+.__active-under-contract._marker-set {
+    border: 1px solid var(--__active-under-contract_br);
+    border-top: 1px solid var(--__active-under-contract_br);
+}
+
+
+.__canceled {
+    background-color: var(--__canceled);
+    color: var(--__canceled_f);
+    border-top-color: var(--__canceled_br);
+}
+
+.__canceled._marker-set {
+    border: 1px solid var(--__canceled_br);
+    border-top: 1px solid var(--__canceled_br);
+}
+
+.__closed {
+    background-color: var(--__closed);
+    color: var(--__closed_f);
+    border-top-color: var(--__closed_br);
+}
+
+.__closed._marker-set {
+    border: 1px solid var(--__closed_br);
+    border-top: 1px solid var(--__closed_br);
+}
+
+.__coming-soon {
+    background-color: var(--__coming-soon);
+    color: var(--__coming-soon_f);
+    border-top-color: var(--__coming-soon_br);
+}
+
+.__coming-soon._marker-set {
+    border: 1px solid var(--__coming-soon_br);
+    border-top: 1px solid var(--__coming-soon_br);
+}
+
+.__pending {
+    background-color: var(--__pending);
+    color: var(--__pending_f);
+    border-top-color: var(--__pending_br);
+}
+
+.__pending._marker-set {
+    border: 1px solid var(--__pending_br);
+    border-top: 1px solid var(--__pending_br);
+}
+
+.__temp-off-market {
+    background-color: var(--__temp-off-market);
+    color: var(--__temp-off-market_f);
+    border-top-color: var(--__temp-off-market_br);
+}
+
+.__temp-off-market._marker-set {
+    border: 1px solid var(--__temp-off-market_br);
+    border-top: 1px solid var(--__temp-off-market_br);
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+    color: white !important;
+}
+
+.marker-cluster-small {
+    background-color: #a7a6a6a8 !important;
+}
+
+.marker-cluster-medium {
+    background-color: #868686a8 !important;
+}
+
+.marker-cluster-large {
+    background-color: #686767a8 !important;
+}
+
+.marker-cluster-small div {
+    background-color: #707070a6 !important;
+    font-family: var(--font-sans) !important;
+}
+
+.marker-cluster-medium div {
+    background-color: #3a3a3aa6 !important;
+    font-family: var(--font-sans) !important;
+}
+
+.marker-cluster-large div {
+    background-color: #000000a6 !important;
+    font-family: var(--font-sans) !important;
+}
+
+.center-point-circle-map {
+    width: 15px;
+    height: 15px;
+    background-color: #e03232;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.leaflet-popup-content-wrapper {
+    background-color: var(--background) !important;
+    box-shadow: none !important;
+    border: none!important;
+    padding: 0 !important;
+    margin: 0 !important;
+    min-width: 300px !important;
+    max-width: 350px !important;
+    color: var(--foreground) !important;
+    font-family: var(--font-sans) !important;
+    border-radius: 1.3em !important;
+}
+
+.leaflet-popup-content {
+    margin: 0 !important;
+    line-height: normal !important;
+    width: auto !important;
+    max-width: none !important;
+}
+
+.leaflet-popup-tip {
+    background: var(--background) !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    width: 35px !important;
+    height: 35px !important;
+    top: 5px !important;
+    right: 5px !important;
+    font: 25px / 30px Tahoma, Verdana, sans-serif !important;
+    color: white !important;
+    background: rgba(0, 0, 0, 0.4) !important;
+    border-radius: 2em;
+}
+
+.icon-toolbar {
+  background: #ffb84d;
+  border-radius: 16px;
+  padding: 4px 5px 4px 5px;
+  align-items: center;
+  display: flex;
+  position: relative;
+  min-width: 70px;
+  min-height: 40px;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 6px;
+  display: flex;
+  align-items: center;
+  height: 32px;
+}
+
+.icon-badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: #ffb84d;
+  color: #333;
+  border-radius: 50%;
+  min-width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 15px;
+  border: 2px solid #fff;
+  z-index: 2;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+/* Remove or comment out this problematic rule */
+/* .buyer-map,
+.leaflet-container {
+  z-index: 0 !important;
+} */
+
+/* Instead, use this more specific rule that only affects buyer-map class */
+.buyer-map {
+  z-index: 0 !important;
+}
+
+/* Ensure leaflet container has proper z-index for maps */
+.leaflet-container {
+  z-index: 1 !important;
+}
+

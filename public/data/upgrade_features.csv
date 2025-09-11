@@ -1,0 +1,36 @@
+feature,description,group,order,no_access
+Market Data,"Analyze market data by State, County, City, or however you see fit to get key insights into how the market is moving day to day. Uncover properties recently purchased or sold by Investors.",3,4,False
+Owner Info,"Find info on unlisted properties, such as owner info, names, mortgage amounts and sale dates, and previous transaction history.",3,8,False
+Gold Filters,"Easily filter and sort in your subscribed county to find your perfect matches. Filter for Flips, Rentals, Wholesale deals, and other advanced methods that make finding the best deals possible with the click of a button.",3,1,False
+Revamp University,"Access educational content to improve your real estate investment knowledge. Learn in depth about not only the Revamp software suite, but also access advanced trainings related to all aspects of real estate investing.",3,12,False
+Affiliate Reselling (Tier 3),"Earn though our affiliate program. Send your unique URL to your friends and when they sign up, you earn 33% on their subscription for the duration of their membership with us.",3,15,False
+Affiliate Reselling (Tier 2),"Earn though our affiliate program. Send your unique URL to your friends and when they sign up, you earn 22% on their subscription for the duration of their membership with us.",3,15,False
+Beta Features Access,Get first access to new features and updates in beta. Stay ahead with early access to the latest tools and enhancements.,3,4,False
+Focus Group,Participate in an exclusive private group for advanced investors. Collaborate and share insights with other experienced investors.,3,4,False
+Training Access,Access weekly trainings to scale your investing business. Enhance your skills and stay updated with the latest strategies.,3,3,False
+Email Tools,Use integrated email marketing tools to reach potential buyers. Say goodbye to your $500/month email marketing subscription and hello to efficency.,3,4,False
+Account Rep,Dedicated account representative to assist with your needs. Enjoy personalized support to help you navigate the platform.,3,1,False
+Weekly Calls,One-on-one weekly calls with our success manager. Receive tailored advice and guidance to optimize your investments.,3,2,False
+Automated Offers,Automatically generate and send offers based on your criteria. Simplify the offer process and save time with automation and buy more deals!,3,5,False
+Data Exporting,Export property data for further analysis or record-keeping. This feature allows for easy integration with your existing systems.,3,4,False
+Deal Alerts,Never miss a deal with alerts for properties matching your criteria. Stay informed about new investment opportunities.,3,2,False
+Rental Calculator & Reports,Access unlimited rental property reports. These reports provide comprehensive rental data to guide your investments.,3,9,False
+List Off-Market Deals,"Feature your off-market properties on our platform. Gain visibility and attract potential buyers for your exclusive listings. Access the most active investor buyers and sell your deals quicker, and for higher prices than ever before.",3,3,False
+Property Ai,Utilize AI tools for property analysis and insights. These tools enhance your investment decisions with advanced analytics. Chat with OpenAi directly from the property window and unlock intelligence beyond your imagination.,3,4,False
+Flip Calculator & Reports,Generate unlimited reports on potential flip properties. Evaluate multiple flip opportunities with detailed reports.,3,10,False
+Pending/Closed Data,View data on pending and closed MLS transactions. Understand market trends with up-to-date transaction information. No licensing required. Full access.,3,4,False
+View Wholesale Deals,Access to exclusive wholesale deals not available in the free plan. Unlock deals and grow faster and more profitably.,3,3,False
+MLS COMP Data,Get detailed comparable sales data from the MLS. This helps in accurate property valuation and investment analysis. No licensing required. Full access.,3,5,False
+Unlock Data Fields,"Get access to premium data fields for more detailed property information. View critical information from the property thumbnail to turbocharge what deals you want to evaluate, and what you want to skip.",3,12,False
+Revamp University,"Access educational content to improve your real estate investment knowledge. Learn in depth about not only the Revamp software suite, but also access advanced trainings related to all aspects of real estate investing.",2,12,True
+Rental Calculator,Estimate rental income and expenses with our rental calculator. Use this feature to assess the profitability of rental properties.,2,11,True
+Flip Calculator,Calculate potential flip profits and costs with our flip calculator. This tool helps you evaluate the financial feasibility of flipping properties.,2,10,True
+Advanced Sorting,Sort properties using various advanced sorting options. Organize listings based on your preferred parameters.,2,9,True
+Gold Filters,Use advanced filters to narrow down your property searches more effectively. This helps you find properties that meet specific investment criteria.,2,8,True
+MLS Comps,Access comparable sales data for properties to better understand market values. This helps you make informed investment decisions. Unlock the power of the MLS without licensing requirements.,2,5,False
+Auto Valuations,"Leverage our database to see automated valuations. Analyze quicker, spend more time making deals and less time hunting. ",2,6,False
+Deal Alerts,Receive basic filter function alerts for new deals that match your criteria. Stay updated with opportunities that fit your investment strategy.,2,7,False
+Affiliate Reselling (Tier 1),"Earn though our affiliate program. Send your unique URL to your friends and when they sign up, you earn 11% on their subscription for the duration of their membership with us.",2,4,False
+Save Properties,Save your favorite properties to easily revisit them later. This makes it convenient to keep track of potential investments.,2,3,False
+Browse MLS Deals,View a wide range of MLS property listings to find your next investment opportunity. This feature provides comprehensive access to current real estate market listings.,2,1,False
+Revamp Wholesale Listings,View wholesale inventory specifically from Revamp 365.,2,2,False

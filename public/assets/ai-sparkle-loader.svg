@@ -1,0 +1,49 @@
+<svg width="80" height="80" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI is thinking">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FB7185"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Center sparkle (pulse) -->
+  <g transform="translate(32 32)">
+    <g filter="url(#glow)">
+      <rect x="-12" y="-12" width="24" height="24" rx="12" transform="rotate(45)" fill="url(#g)"/>
+    </g>
+    <animateTransform attributeName="transform" type="scale" values="1;1.08;1" dur="1.1s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Orbiting mini sparkles -->
+  <g transform="translate(32 32)">
+    <!-- fast orbit -->
+    <g>
+      <rect x="-3" y="-22" width="6" height="6" rx="3" transform="rotate(45)" fill="url(#g)">
+        <animate attributeName="opacity" values="1;0.4;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="2.2s" repeatCount="indefinite"/>
+    </g>
+    <!-- mid orbit -->
+    <g>
+      <rect x="-3" y="-18" width="6" height="6" rx="3" transform="rotate(45)" fill="url(#g)">
+        <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1.3s" begin=".15s" repeatCount="indefinite"/>
+      </rect>
+      <animateTransform attributeName="transform" type="rotate" values="120;480" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+    <!-- slow orbit -->
+    <g>
+      <rect x="-3" y="-20" width="6" height="6" rx="3" transform="rotate(45)" fill="url(#g)">
+        <animate attributeName="opacity" values="0.9;0.35;0.9" dur="1.4s" begin=".3s" repeatCount="indefinite"/>
+      </rect>
+      <animateTransform attributeName="transform" type="rotate" values="240;600" dur="3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
+

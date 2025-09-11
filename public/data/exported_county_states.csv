@@ -1,0 +1,275 @@
+county,display,fips,state,slug
+Adams,"Adams, PA",42001,PA,adams-pa
+Adams,"Adams, PE",21001,PE,adams-pe
+Allegany,"Allegany, MD",24001,MD,allegany-md
+Accomack,"Accomack, VA",51001,VA,accomack-va
+Albemarle,"Albemarle, VA",51003,VA,albemarle-va
+Alexandria City,"Alexandria City, VA",51510,VA,alexandria-city-va
+Alleghany,"Alleghany, VA",51005,VA,alleghany-va
+Amelia,"Amelia, VA",51007,VA,amelia-va
+Amherst,"Amherst, VA",51009,VA,amherst-va
+Allegheny,"Allegheny, PA",42003,PA,allegheny-pa
+Arlington,"Arlington, VA",51013,VA,arlington-va
+Anne Arundel,"Anne Arundel, MD",24003,MD,anne-arundel-md
+Appomattox,"Appomattox, VA",51011,VA,appomattox-va
+Atlantic,"Atlantic, NJ",34001,NJ,atlantic-nj
+Armstrong,"Armstrong, PA",42005,PA,armstrong-pa
+Augusta,"Augusta, VA",51015,VA,augusta-va
+Baltimore,"Baltimore, MD",24005,MD,baltimore-md
+Baltimore City,"Baltimore City, MD",24510,MD,baltimore-city-md
+Barbour,"Barbour, WV",54001,WV,barbour-wv
+Bath,"Bath, VA",51017,VA,bath-va
+Bedford,"Bedford, VA",51019,VA,bedford-va
+Beaver,"Beaver, PA",42007,PA,beaver-pa
+Bedford,"Bedford, PA",42009,PA,bedford-pa
+Blair,"Blair, PA",42013,PA,blair-pa
+Berkeley,"Berkeley, WV",54003,WV,berkeley-wv
+Berks,"Berks, PA",42011,PA,berks-pa
+Bland,"Bland, VA",51021,VA,bland-va
+Bradford,"Bradford, PA",42015,PA,bradford-pa
+Botetourt,"Botetourt, VA",51023,VA,botetourt-va
+Bergen,"Bergen, NJ",34003,NJ,bergen-nj
+Braxton,"Braxton, WV",54007,WV,braxton-wv
+Cabell,"Cabell, WV",54011,WV,cabell-wv
+Calvert,"Calvert, MD",24009,MD,calvert-md
+Brooke,"Brooke, WV",54009,WV,brooke-wv
+Brunswick,"Brunswick, VA",51025,VA,brunswick-va
+Butler,"Butler, PA",42019,PA,butler-pa
+Bucks,"Bucks, 0",,0,bucks-0
+Burlington,"Burlington, NJ",34005,NJ,burlington-nj
+Bucks,"Bucks, PA",42017,PA,bucks-pa
+Buckingham,"Buckingham, VA",51029,VA,buckingham-va
+Cambria,"Cambria, PA",42021,PA,cambria-pa
+Camden,"Camden, NJ",34007,NJ,camden-nj
+Camden,"Camden, 0",,0,camden-0
+Carroll,"Carroll, MD",24013,MD,carroll-md
+Campbell,"Campbell, VA",51031,VA,campbell-va
+Cameron,"Cameron, PA",42023,PA,cameron-pa
+Cape May,"Cape May, NJ",34009,NJ,cape-may-nj
+Carbon,"Carbon, PA",42025,PA,carbon-pa
+Caroline,"Caroline, VA",51033,VA,caroline-va
+Caroline,"Caroline, MD",24011,MD,caroline-md
+Cecil,"Cecil, MD",24015,MD,cecil-md
+Centre,"Centre, IA",1019,IA,centre-ia
+Centre,"Centre, PA",42027,PA,centre-pa
+Centre,"Centre, ID",1019,ID,centre-id
+Carroll,"Carroll, PA",42029,PA,carroll-pa
+Charles,"Charles, MD",24017,MD,charles-md
+Chesterfield,"Chesterfield, VA",51041,VA,chesterfield-va
+Chester,"Chester, PA",42029,PA,chester-pa
+Chesapeake City,"Chesapeake City, VA",51550,VA,chesapeake-city-va
+Charles City,"Charles City, VA",51036,VA,charles-city-va
+Charlotte,"Charlotte, VA",51037,VA,charlotte-va
+Charlottesville City,"Charlottesville City, VA",51540,VA,charlottesville-city-va
+Clarke,"Clarke, VA",51043,VA,clarke-va
+Clearfield,"Clearfield, NY",36123,NY,clearfield-ny
+Colonial Heights City,"Colonial Heights City, VA",51570,VA,colonial-heights-city-va
+Clay,"Clay, WV",54015,WV,clay-wv
+Clearfield,"Clearfield, PA",42033,PA,clearfield-pa
+Columbia,"Columbia, PA",42037,PA,columbia-pa
+Clarion,"Clarion, PA",42031,PA,clarion-pa
+Clinton,"Clinton, PA",42035,PA,clinton-pa
+Dauphin,"Dauphin, NC",42043,NC,dauphin-nc
+Cumberland,"Cumberland, VA",51049,VA,cumberland-va
+Cumberland,"Cumberland, NJ",34011,NJ,cumberland-nj
+Dauphin,"Dauphin, MI",42043,MI,dauphin-mi
+Crawford,"Crawford, PA",42039,PA,crawford-pa
+Culpeper,"Culpeper, VA",51047,VA,culpeper-va
+Cumberland,"Cumberland, PA",42041,PA,cumberland-pa
+Dauphin,"Dauphin, PA",42043,PA,dauphin-pa
+Dauphin,"Dauphin, IN",42043,IN,dauphin-in
+Delaware,"Delaware, PA",42045,PA,delaware-pa
+Essex,"Essex, VA",51057,VA,essex-va
+Fairfax City,"Fairfax City, VA",51600,VA,fairfax-city-va
+Dinwiddie,"Dinwiddie, VA",51053,VA,dinwiddie-va
+Elk,"Elk, PA",42047,PA,elk-pa
+Doddridge,"Doddridge, WV",54017,WV,doddridge-wv
+Essex,"Essex, NJ",34013,NJ,essex-nj
+Falls Church City,"Falls Church City, VA",51610,VA,falls-church-city-va
+Dorchester,"Dorchester, MD",24019,MD,dorchester-md
+Fairfax,"Fairfax, VA",51059,VA,fairfax-va
+Erie,"Erie, PA",42049,PA,erie-pa
+Fayette,"Fayette, PA",42051,PA,fayette-pa
+Floyd,"Floyd, VA",51063,VA,floyd-va
+Fauquier,"Fauquier, VA",51061,VA,fauquier-va
+Fredericksburg City,"Fredericksburg City, VA",51630,VA,fredericksburg-city-va
+Franklin,"Franklin, VA",51067,VA,franklin-va
+Fluvanna,"Fluvanna, VA",51065,VA,fluvanna-va
+Frederick,"Frederick, MD",24021,MD,frederick-md
+Frederick,"Frederick, VA",51069,VA,frederick-va
+Franklin,"Franklin, WA",53021,WA,franklin-wa
+Franklin,"Franklin, PA",42055,PA,franklin-pa
+Fulton,"Fulton, PA",42057,PA,fulton-pa
+Garrett,"Garrett, MD",24023,MD,garrett-md
+Grant,"Grant, WV",54023,WV,grant-wv
+Goochland,"Goochland, VA",51075,VA,goochland-va
+Gloucester,"Gloucester, NJ",34015,NJ,gloucester-nj
+Gloucester,"Gloucester, VA",51073,VA,gloucester-va
+Gilmer,"Gilmer, WV",54021,WV,gilmer-wv
+Greenbrier,"Greenbrier, WV",54025,WV,greenbrier-wv
+Greene,"Greene, PA",42059,PA,greene-pa
+Grayson,"Grayson, VA",51077,VA,grayson-va
+Halifax,"Halifax, VA",51083,VA,halifax-va
+Greene,"Greene, VA",51079,VA,greene-va
+Greensville,"Greensville, VA",51081,VA,greensville-va
+Hancock,"Hancock, WV",54029,WV,hancock-wv
+Hampshire,"Hampshire, WV",54027,WV,hampshire-wv
+Hampton City,"Hampton City, VA",51650,VA,hampton-city-va
+Harford,"Harford, MD",24025,MD,harford-md
+Harrison,"Harrison, WV",54033,WV,harrison-wv
+Hanover,"Hanover, VA",51085,VA,hanover-va
+Hardy,"Hardy, WV",54031,WV,hardy-wv
+Highland,"Highland, VA",51091,VA,highland-va
+Hudson,"Hudson, NJ",34017,NJ,hudson-nj
+Howard,"Howard, MD",24027,MD,howard-md
+Hunterdon,"Hunterdon, NJ",34019,NJ,hunterdon-nj
+Henrico,"Henrico, VA",51087,VA,henrico-va
+Hopewell City,"Hopewell City, VA",51670,VA,hopewell-city-va
+Henry,"Henry, VA",51089,VA,henry-va
+Harrisonburg City,"Harrisonburg City, VA",51660,VA,harrisonburg-city-va
+Huntingdon,"Huntingdon, NY",42061,NY,huntingdon-ny
+Huntingdon,"Huntingdon, PA",42061,PA,huntingdon-pa
+Indiana,"Indiana, PA",42063,PA,indiana-pa
+King And Queen,"King And Queen, VA",51097,VA,king-and-queen-va
+Kent,"Kent, DE",10001,DE,kent-de
+Isle Of Wight,"Isle Of Wight, VA",51093,VA,isle-of-wight-va
+Juniata,"Juniata, MS",28085,MS,juniata-ms
+Jefferson,"Jefferson, WV",54037,WV,jefferson-wv
+Jefferson,"Jefferson, PA",42065,PA,jefferson-pa
+Kent,"Kent, MD",24029,MD,kent-md
+Juniata,"Juniata, PA",42067,PA,juniata-pa
+James City,"James City, VA",51095,VA,james-city-va
+Lebanon,"Lebanon, PA",42075,PA,lebanon-pa
+King George,"King George, VA",51099,VA,king-george-va
+Lehigh,"Lehigh, PA",42077,PA,lehigh-pa
+Lancaster,"Lancaster, VA",51103,VA,lancaster-va
+King William,"King William, VA",51101,VA,king-william-va
+Lexington City,"Lexington City, VA",51678,VA,lexington-city-va
+Lawrence,"Lawrence, PA",42073,PA,lawrence-pa
+Lancaster,"Lancaster, PA",42071,PA,lancaster-pa
+Loudoun,"Loudoun, VA",51107,VA,loudoun-va
+Lackawanna,"Lackawanna, PA",42069,PA,lackawanna-pa
+Luzerne,"Luzerne, PA",42079,PA,luzerne-pa
+Louisa,"Louisa, VA",51109,VA,louisa-va
+Lycoming,"Lycoming, PA",42081,PA,lycoming-pa
+Lunenburg,"Lunenburg, VA",51111,VA,lunenburg-va
+Lynchburg City,"Lynchburg City, VA",51680,VA,lynchburg-city-va
+Marion,"Marion, WV",54049,WV,marion-wv
+Manassas City,"Manassas City, VA",51683,VA,manassas-city-va
+Manassas Park City,"Manassas Park City, VA",51685,VA,manassas-park-city-va
+Mathews,"Mathews, VA",51115,VA,mathews-va
+Madison,"Madison, VA",51113,VA,madison-va
+Middlesex,"Middlesex, NJ",34023,NJ,middlesex-nj
+Mercer,"Mercer, NJ",34021,NJ,mercer-nj
+Mecklenburg,"Mecklenburg, VA",51117,VA,mecklenburg-va
+Mercer,"Mercer, PA",42085,PA,mercer-pa
+Mckean,"Mckean, PA",42083,PA,mckean-pa
+Mifflin,"Mifflin, PA",42087,PA,mifflin-pa
+Mineral,"Mineral, WV",54057,WV,mineral-wv
+Monmouth,"Monmouth, NJ",34025,NJ,monmouth-nj
+Mingo,"Mingo, WV",54059,WV,mingo-wv
+Middlesex,"Middlesex, VA",51119,VA,middlesex-va
+Monongalia,"Monongalia, WV",54061,WV,monongalia-wv
+Morris,"Morris, NJ",34027,NJ,morris-nj
+Nelson,"Nelson, VA",51125,VA,nelson-va
+Monroe,"Monroe, PA",42089,PA,monroe-pa
+Montgomery,"Montgomery, PA",42091,PA,montgomery-pa
+Montgomery,"Montgomery, MD",24031,MD,montgomery-md
+Montour,"Montour, PA",42093,PA,montour-pa
+Montgomery,"Montgomery, VA",51121,VA,montgomery-va
+New Castle,"New Castle, DE",10003,DE,new-castle-de
+Morgan,"Morgan, WV",54065,WV,morgan-wv
+Nicholas,"Nicholas, WV",54067,WV,nicholas-wv
+Norfolk City,"Norfolk City, VA",51710,VA,norfolk-city-va
+Nottoway,"Nottoway, VA",51135,VA,nottoway-va
+Northampton,"Northampton, PA",42095,PA,northampton-pa
+New Kent,"New Kent, VA",51127,VA,new-kent-va
+Northampton,"Northampton, VA",51131,VA,northampton-va
+Northumberland,"Northumberland, PA",42097,PA,northumberland-pa
+Newport News City,"Newport News City, VA",51700,VA,newport-news-city-va
+Northumberland,"Northumberland, VA",51133,VA,northumberland-va
+Ocean,"Ocean, NJ",34029,NJ,ocean-nj
+Orange,"Orange, VA",51137,VA,orange-va
+Passaic,"Passaic, NJ",34031,NJ,passaic-nj
+Ohio,"Ohio, WV",54069,WV,ohio-wv
+Perry,"Perry, PA",42099,PA,perry-pa
+Orange,"Orange, FL",12095,FL,orange-fl
+Petersburg City,"Petersburg City, VA",51730,VA,petersburg-city-va
+Page,"Page, VA",51139,VA,page-va
+Pendleton,"Pendleton, WV",54071,WV,pendleton-wv
+Philadelphia,"Philadelphia, PA",42101,PA,philadelphia-pa
+Pike,"Pike, PA",42103,PA,pike-pa
+Preston,"Preston, WV",54077,WV,preston-wv
+Portsmouth City,"Portsmouth City, VA",51740,VA,portsmouth-city-va
+Powhatan,"Powhatan, VA",51145,VA,powhatan-va
+Pittsylvania,"Pittsylvania, VA",51143,VA,pittsylvania-va
+Prince Georges,"Prince Georges, MD",24033,MD,prince-georges-md
+Pocahontas,"Pocahontas, WV",54075,WV,pocahontas-wv
+Poquoson City,"Poquoson City, VA",51735,VA,poquoson-city-va
+Prince George,"Prince George, VA",51149,VA,prince-george-va
+Potter,"Potter, PA",42105,PA,potter-pa
+Prince Edward,"Prince Edward, VA",51147,VA,prince-edward-va
+Rappahannock,"Rappahannock, VA",51157,VA,rappahannock-va
+Prince William,"Prince William, VA",51153,VA,prince-william-va
+Ritchie,"Ritchie, WV",54085,WV,ritchie-wv
+Pulaski,"Pulaski, VA",51155,VA,pulaski-va
+Richmond,"Richmond, VA",51159,VA,richmond-va
+Randolph,"Randolph, WV",54083,WV,randolph-wv
+Richmond City,"Richmond City, VA",51760,VA,richmond-city-va
+Roanoke,"Roanoke, VA",51161,VA,roanoke-va
+Queen Annes,"Queen Annes, MD",24035,MD,queen-annes-md
+Putnam,"Putnam, WV",54079,WV,putnam-wv
+Saint Marys,"Saint Marys, MD",24037,MD,saint-marys-md
+Rockbridge,"Rockbridge, VA",51163,VA,rockbridge-va
+Russell,"Russell, VA",51167,VA,russell-va
+Roanoke City,"Roanoke City, VA",51770,VA,roanoke-city-va
+Rockingham,"Rockingham, VA",51165,VA,rockingham-va
+Shenandoah,"Shenandoah, VA",51171,VA,shenandoah-va
+Salem,"Salem, NJ",34033,NJ,salem-nj
+Snyder,"Snyder, NY",36029,NY,snyder-ny
+Schuylkill,"Schuylkill, PA",42107,PA,schuylkill-pa
+Snyder,"Snyder, PA",42109,PA,snyder-pa
+Staunton City,"Staunton City, VA",51790,VA,staunton-city-va
+Somerset,"Somerset, NJ",34035,NJ,somerset-nj
+Somerset,"Somerset, MD",24039,MD,somerset-md
+Suffolk City,"Suffolk City, VA",51800,VA,suffolk-city-va
+Somerset,"Somerset, PA",42111,PA,somerset-pa
+Snyder,"Snyder, TX",48415,TX,snyder-tx
+Sullivan,"Sullivan, PA",42113,PA,sullivan-pa
+Spotsylvania,"Spotsylvania, VA",51177,VA,spotsylvania-va
+Southampton,"Southampton, VA",51175,VA,southampton-va
+Stafford,"Stafford, VA",51179,VA,stafford-va
+Surry,"Surry, VA",51181,VA,surry-va
+Sussex,"Sussex, DE",10005,DE,sussex-de
+Tioga,"Tioga, PA",42117,PA,tioga-pa
+Tucker,"Tucker, WV",54093,WV,tucker-wv
+Susquehanna,"Susquehanna, PA",42115,PA,susquehanna-pa
+Tazewell,"Tazewell, VA",51185,VA,tazewell-va
+Sussex,"Sussex, VA",51183,VA,sussex-va
+Union,"Union, NJ",34039,NJ,union-nj
+Talbot,"Talbot, MD",24041,MD,talbot-md
+Sussex,"Sussex, NJ",34037,NJ,sussex-nj
+Union,"Union, PA",42119,PA,union-pa
+Venango,"Venango, PA",42121,PA,venango-pa
+Washington,"Washington, MD",24043,MD,washington-md
+Virginia Beach City,"Virginia Beach City, VA",51810,VA,virginia-beach-city-va
+Warren,"Warren, PA",42123,PA,warren-pa
+Washington,"Washington, PA",42125,PA,washington-pa
+Washington,"Washington, DC",11001,DC,washington-dc
+Warren,"Warren, NJ",34041,NJ,warren-nj
+Warren,"Warren, VA",51187,VA,warren-va
+Wayne,"Wayne, PA",42127,PA,wayne-pa
+Wicomico,"Wicomico, MD",24045,MD,wicomico-md
+Westmoreland,"Westmoreland, PA",42129,PA,westmoreland-pa
+Winchester City,"Winchester City, VA",51840,VA,winchester-city-va
+Waynesboro City,"Waynesboro City, VA",51820,VA,waynesboro-city-va
+Westmoreland,"Westmoreland, VA",51193,VA,westmoreland-va
+Wyoming,"Wyoming, PA",42131,PA,wyoming-pa
+Wythe,"Wythe, VA",51197,VA,wythe-va
+Worcester,"Worcester, MD",24047,MD,worcester-md
+Wood,"Wood, WV",54107,WV,wood-wv
+Wise,"Wise, VA",51195,VA,wise-va
+York,"York, CT",9015,CT,york-ct
+York,"York, PA",42133,PA,york-pa
+York,"York, VA",51199,VA,york-va
+York,"York, WI",55019,WI,york-wi

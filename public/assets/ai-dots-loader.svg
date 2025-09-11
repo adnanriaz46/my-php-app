@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Loading">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FB7185"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(32 32)">
+    <circle r="4" cx="-14" cy="0" fill="url(#g2)">
+      <animate attributeName="r" values="4;2;4" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" cx="0" cy="0" fill="url(#g2)">
+      <animate attributeName="r" values="2;4;2" dur="0.9s" begin=".15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="0.9s" begin=".15s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" cx="14" cy="0" fill="url(#g2)">
+      <animate attributeName="r" values="4;2;4" dur="0.9s" begin=".3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="0.9s" begin=".3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
+

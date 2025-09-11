@@ -1,0 +1,5 @@
+email,tags,phone_number,first_name,last_name,counties_invest,deal_type,zip_code_invest,price_range
+test@example.com,"member,vip",(555) 123-4567,John,Doe,"Delaware,Adams",MLS,"19015,19035","20000,90000"
+invalid-email,"test",(555) 999-8888,Jane,Smith,"Chester,Montgomery",Wholesale,"19401,19403","50000,150000"
+another@test.com,,,Bob,Johnson,"Bucks,Philadelphia",MLS,"18901,18902","30000,80000"
+good@email.com,"premium",+1-555-777-9999,Alice,Brown,"Lancaster,York",Wholesale,"17601,17401","40000,120000" 
